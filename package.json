@@ -1,0 +1,14 @@
+{
+  "name": "template-shoelace-html",
+  "module": "index.ts",
+  "type": "module",
+  "devDependencies": {
+    "bun-types": "latest"
+  },
+  "scripts":{
+    "dev":"bunx serve ."
+  },
+  "peerDependencies": {
+    "typescript": "^5.0.0"
+  }
+}
